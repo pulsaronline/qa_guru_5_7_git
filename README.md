@@ -4,5 +4,8 @@ Some text from develop branch
 
 Some changes just for test
 
+Some text from develop branch
+
 ¯\_(ツ)_/¯
 maybeitchangeyourrepa
+Немношк исправленный редми
